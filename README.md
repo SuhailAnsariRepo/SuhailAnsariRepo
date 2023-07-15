@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuhailAnsariRepo
-- 👀 I’m interested in Full Stack Development and Machine Learning
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects on Android Developmnet
 - 📫 You can reach me out at suhafea@gmail.com
